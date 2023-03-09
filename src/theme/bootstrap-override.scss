@@ -1,0 +1,102 @@
+
+  
+  @media (prefers-reduced-motion: reduce) {
+    .modal.fade .modal-dialog {
+        transition: -webkit-transform 0.3s ease-out;
+    transition: transform 0.3s ease-out;
+    transition: transform 0.3s ease-out, -webkit-transform 0.3s ease-out;
+    }
+  }
+  
+  @media (prefers-reduced-motion: reduce) {
+    .carousel-item {
+       transition: -webkit-transform 0.6s ease-in-out;
+    transition: transform 0.6s ease-in-out;
+    transition: transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out;
+    }
+  }
+  
+  @media (prefers-reduced-motion: reduce) {
+    .carousel-fade .active.carousel-item-left,
+    .carousel-fade .active.carousel-item-right {
+       transition: opacity 0s 0.6s;
+  }
+    }
+  
+  
+  @media (prefers-reduced-motion: reduce) {
+    .carousel-control-prev,
+    .carousel-control-next {
+      transition: opacity 0.15s ease;
+    }
+  }
+  
+  @media (prefers-reduced-motion: reduce) {
+    .carousel-indicators li {
+      transition: opacity 0.6s ease;
+    }
+  }
+
+ 
+    .b-icon.b-icon-animation-fade, .b-icon.b-iconstack .b-icon-animation-fade > g {
+        -webkit-animation: none;
+        animation: none;
+    }
+  
+
+  .tooltip {
+    animation: fadeIn ease 0.4s;
+    -webkit-animation: fadeIn ease 0.4s;
+    -moz-animation: fadeIn ease 0.4s;
+    -o-animation: fadeIn ease 0.4s;
+    -ms-animation: fadeIn ease 0.4s;
+  }
+  @keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  @-moz-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+  }
+}
+
+
+
+  
+  
+  

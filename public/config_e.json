@@ -1,0 +1,16 @@
+{
+    "baseUrl": "",
+    "usemock": false,
+    "mslaConfig": {
+        "auth": {
+            "clientId": "8dbf57ae-ab7a-485c-adf9-9921f92910de",
+            "authority": "https://login.microsoftonline.com/acp4eu054hotmail.onmicrosoft.com",
+            "redirectUri": "http://localhost:8083/#/login",
+            "postLoguotredirectUri": "http://localhost:8083/#/login",
+            "validateAuthority": false
+        },
+        "scopes": [
+            "api://52932007-4e60-4a26-b6f8-767c9ae34d55/access_as_user"
+        ]
+    }
+}

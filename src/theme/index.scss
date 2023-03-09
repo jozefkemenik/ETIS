@@ -1,0 +1,109 @@
+
+
+:root {
+  --bgdefault: #ECECEC;
+}
+
+
+$theme-colors: (
+  "default":rgb(80,80,80),
+  "primary": #0B4280,
+  "danger": #ff4136,
+  "success":	rgb(93,158,6),
+  "info":rgb(93,158,6),
+  "approve":#ff6633,
+  "custom-color": #900,
+  "bg-default":#ECECEC,
+  "bg-default-border":darken(#ECECEC, 10%),
+  "bg-header":lighten(#0B4280, 50%)
+);
+
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+@import 'bootstrap-override.scss';
+
+
+html,body {
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  overflow-x:hidden!important;
+  overflow-y:hidden!important;
+}
+ .scrollable{
+   overflow-y: auto;
+ }
+ .hidden{
+   display:none;
+ }
+
+
+
+@media (min-width: 576px) {
+  .calc-container {
+    max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+  .calc-container {
+    max-width: 920px;
+  }
+}
+
+@media (min-width: 992px) {
+  .calc-container  {
+    max-width: 1160px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .calc-container  {
+    max-width: 90%;
+  }
+}
+
+
+//bootstrpa override
+
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .fas {
+  color:theme-color("default");
+}
+
+
+.splitter{
+  border-top: 2px solid lighten(theme-color("default"),30%);
+}
+
+
+@media (min-width: 576px) {
+  .modal-container {
+    max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+  .modal-container {
+    max-width: 920px;
+  }
+}
+
+@media (min-width: 992px) {
+  .modal-container  {
+    max-width: 1160px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .modal-container  {
+    max-width: 55%;
+  }
+}
+
+.text-approve{
+ color: #ff6633
+}
+
+
+

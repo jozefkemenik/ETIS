@@ -1,0 +1,16 @@
+{
+    "baseUrl": "https://aps-etis-development-001.azurewebsites.net/api",
+    "usemock":false,
+    "mslaConfig": {
+        "auth": {
+            "clientId": "0c1eec39-fe9e-4b80-ab66-23b0049758cb",
+            "authority": "https://login.microsoftonline.com/acp4eu054hotmail.onmicrosoft.com",
+            "redirectUri": "http://localhost:8083/#/login",
+            "postLoguotredirectUri": "http://localhost:8083/#/login",
+            "validateAuthority":true
+        },       
+        "scopes": [
+           "api://e424540d-b77b-492a-a3ff-3ae948564e9b/access_as_user"
+        ]
+    }
+}

@@ -1,0 +1,233 @@
+{"en-GB":{
+    "ST_LoginAzureDesc":"Login by AZURE AD",
+    "ST_Login":"Login",
+    "ST_Logout":"Logout",
+    "ST_Hello":"Hello",
+    "ST_LoggedInAs":"Logged in as",
+    "ST_Back":"Back",
+    "ST_Next":"Next",
+    "ST_SelectedItems":"Selected Items",
+    "ST_SelectDutiesTasks":"Select duties and tasks",
+    "ST_EvaluateTasks":"Evaluate Tasks",
+    "ST_Results":"Results",
+    "ST_MyLearningPath":"My learning path",
+    "ST_SelectLearningItems":"Select Learning Items",
+    "ST_SelectOccupationalArea":"Select Competency Area",
+    
+    "LT_PleaseFollow":"Please follow these steps",
+    "LT_SelectOccupational":"Select Occupational Standards for",
+    "LT_SelectTasksFor":"Select Tasks for",
+    "ST_NoDisplay":"Nothing to display",
+    "ST_SubmitResult":"Submit Result",
+    "ST_GoToPrevStep":"Go to previous step",
+    "ST_GoToSelTasks":"Go to selection of tasks",
+    "ST_Frequency":"Frequency",
+    "ST_Relevance":"Relevance",
+    "ST_Score":"Score",
+    "ST_Task":"Task",
+    "ST_LearningOut":"Learning Outcome" ,
+    "ST_GoHome" :"Go Home" ,
+
+   
+    "ST_memberState": "Member State",
+    "ST_Institution": "Institution",
+    "ST_isRequired":"is required",
+    "ST_select":"Select",
+    "ST_Role":"Role",
+    "ST_search":"Search",
+    "ST_choose":"Choose",
+    "ST_submit":"Submit",
+  
+    "ST_reset":"Reset",
+    "ST_hierarchy":"Hierarchy",
+    "ST_competenceArea":"Competence Area",
+    "ST_allModules":"All modules",
+    "ST_dontHaveAccount":"Don’t have an account?",
+    "ST_signUp":"Sign up",
+    "ST_newAccountRegistration":"New Account Registration",
+    "LT_fillOutApp":"Fill out the appropriate details to create a new account",
+    "ST_youAlreadyHave":"You already have an account?",
+    "ST_logIn":"Log In",
+    "ST_createUser":"Create Account",
+    "ST_AllModules":"All modules",
+    "ST_Yes":"Yes",
+    "ST_No":"No",
+    "ST_Partially":"Partially",
+    "ST_giveFeedback":"Give feedback",
+  
+    "ST_Name":"Name",
+    "ST_Surname":"Surname",
+    "ST_description":"Description",
+    "ST_home":"Home",
+    "ST_modules":"Modules",
+    "ST_legacyNotice":"Legacy Notice",
+    "ST_goToDashboard":"Go to dashboard",
+    "ST_exit":"Exit",
+    "ST_feedback":"Feedback",
+    "ST_send":"Send",
+    "ST_nothingToselect":"Nothign to select",
+    "ST_isWrongFormat":"is in wrong format",
+    "ST_iWorkAs":"I work as",
+    "ST_selectedTasks": "Selected tasks",
+    "ST_continue": "Continue",
+    "ST_tasks": "Tasks",
+    "ST_T&C":"Terms and conditions" ,
+    "ST_goBack":"Go back" ,
+    "ST_date":"Date",
+    "ST_forgotPwd":"Forgot Password",
+
+
+    "ST_ESQF":"ESQF\nOccupational Standards",
+    "ST_fitToPage":"Fit to page",
+    "ST_fit":"Fit",
+
+    "ST_MoreInfoESQF":"MORE INFORMATION ABOUT THE ESQF",
+    "ST_WelcomeTo":"Welcome to the",
+
+    "ST_gets":"gets",
+    "ST_selects":"selects",
+    "ST_receives":"receives",
+
+    "ST_virtualTour":"Virtual Tour",
+
+    "ST_moduleAim":"Module Aim",
+
+    "ST_report":"Print my learning path",
+    "ST_learningPath":"Learning Path",
+    "ST_competencyArea":"Competency Area",
+
+
+
+    
+    "ST_HomeWelcomeText":"Welcome to Electronic Training Integration System (ETIS)",
+
+    "ST_HomeBoxTitle_1":"Request New Session",
+    "ST_HomeBoxText_1":"Create New Course Copy",
+    "ST_HomeBoxBtn_1":"Create New Session",
+    "ST_HomeBoxTitle_2":"My Draft Sessions",
+    "ST_HomeBoxText_2":"List of all the ongoing requests, those which have not been submitted to our LMS platform.",
+    "ST_HomeBoxBtn_2":"View List",
+    "ST_HomeBoxTitle_3":"Submitted Sessions",
+    "ST_HomeBoxText_3":"List of all submitted requests for new courses on our LMS platform.",
+    "ST_HomeBoxBtn_3":"View List", 
+    "ST_HomeBoxTitle_4":"Rejected Sessions",
+    "ST_HomeBoxText_4":"List of all rejected requests for new courses on our LMS platform.",
+    "ST_HomeBoxBtn_4":"View List", 
+    "ST_HomeBoxTitle_5":"Approved Sessions",
+    "ST_HomeBoxText_5":"List of all approved requests for new courses on our LMS platform.",
+    "ST_HomeBoxBtn_5":"View List", 
+
+    "ST_HomeBoxSmallerTitle_1":"What is ETIS?",
+    "ST_HomeBoxSmallerText_1":"ETIS provides an easy way for users to be able to ...",
+    "ST_HomeBoxSmallerTitle_2":"View the Manuals",
+    "ST_HomeBoxSmallerText_2":"Click here for the list",
+    "ST_HomeBoxSmallerTitle_3":"View the FAQs",
+    "ST_HomeBoxSmallerText_3":"Click here for full list",
+
+    "ST_Home":"Home",
+    "ST_RequestNewTrainigSession":"Request New Trainig Session",
+    "ST_DraftSessions":"Draft Sessions",
+    "ST_SubmittedSessions":"Submitted Sessions",
+
+
+    "ST_ParticipantsAndTrainers":"Participants and Trainers",
+    "ST_NewCourseDetails":"New Course Details",
+    "ST_TrainingSession":"Training Session",
+
+    "ST_MainDetails":"Main Details",
+    "ST_MainDetailsCertified":"Are you certified",
+    "ST_MainDetailsLanguage":"Select Language",
+    "ST_MainDetailsCourse":"Select Course",
+    "ST_MainDetailsOrganizer":"Select New Session Organizer",
+    "ST_MainDetailsMoodle":"Do you want the new Session to be visible in Moodle?",
+
+    "ST_SessionDelivery":"Session Delivery",
+    "ST_SessionDeliveryHow":"How will this session be delivered?",
+    "ST_SessionDeliveryCountry":"In which country will this session take place?",
+    "ST_SessionDeliveryCity":"In which city will this session take place?",
+    "ST_SessionDeliveryLanguage":"In which language will this session take place?",
+
+
+    "ST_SessionContent":"Session Content",
+    "ST_SessionContentFramework":"What Framework",
+    "ST_SessionContentScopeTrainig":"What is the scope of this training?",
+    "ST_SessionContentOrganizer":"What is the organizer?",
+    "ST_SessionContentPilot":"Is this session a pilot?",
+    "ST_SessionContentPilot_Regular":"Regular Session",
+    "ST_SessionContentPilot_Easo":"Easo Pilot Session",
+    "ST_SessionContentWhat":"What is the content of this session?",
+    "ST_SessionContentProgramme":"Training Programme",
+
+
+    "ST_PleaseSelect":"Please Select ...",
+    "ST_Cancel":"Cancel",
+
+
+    "ST_CourseDetails":"Course Details",
+    "ST_SelectCourseType":"Select Course Type",
+
+    "ST_Dates":"Dates",
+    "ST_OnlineDate":"Online Date",
+    "ST_FaceDate":"Face Date",
+
+
+    "ST_NewName":"New Name",
+    "ST_NewShortName":"New Short Name",
+    "ST_SourceCode":"Source Code (e.g.)",
+    "ST_Copy":"Copy",
+    "ST_Generate":"Generate",
+
+    "ST_AddParticipant":"Add Participant",
+    "ST_EditParticipant":"Edit Participant",
+    "ST_AddTrainers":"Add Trainers",
+
+    "ST_AddMultipleParticipants":"Add Multiple Participants",
+    "ST_UploadCSVFile":"Upload CSV File",
+    "ST_AddTrainer":"Add Trainer",
+    "ST_AddMultipleTrainers":"Add Multiple Trainers",
+    "LG_InfoPanelNewSessionStepThree":"<p class='bold'><b>Instruction for user upload</b></p><p>To be able to upload the users, please download <b>CSV template</b> file by <a href='#'>clicking here</a><br><p><b>Please fill the Mandatory fields: Name, Surname, Email, and Surname</b></p>",
+
+
+    "ST_FirstName": "First Name",
+    "ST_LastName": "Last Name",
+    "ST_Email": "E-mail",
+    "ST_Position": "Position",
+    "ST_Country": "Country",
+    "ST_Add":"Add",
+    "ST_Username":"Username",
+    "ST_Tasklist":"Task list (e.g. 2,3,4)",
+
+    "ST_NoRecordsAvailable":"No records available",
+
+    "ST_CourseCode":"Course Code",
+    "ST_Session":"Session",
+    "ST_ShortName":"Short Name",
+    "ST_MasterCourse":"Master Course",
+    "ST_CourseType":"Course Type",
+    "ST_Language":"Language",
+    "ST_SessionsToApprove":"Sessions To Approve",
+    "ST_Participants":"Participants",
+    "ST_SessionsApproved":"Approved Sessions",
+    "ST_SubmitRequest":"Submit Request",
+    "ST_Save":"Save",
+    "ST_Actions":"Actions",
+    "ST_Edit":"Edit",
+    "ST_ApprovedSessions":"Approved Sessions",
+    "ST_RejectedSessions":"Rejected Sessions",
+    "ST_AddLearners":"Add Learners",
+    "ST_Framework":"Framework",
+    "ST_SelectCourseSubType":"Select Course Sub-type",
+    "ST_OnlineStartDate":"Online Start Date",
+    "ST_OnlineEndDate":"Online End Date",
+    "ST_FaceEndDate":"Face End Date",
+    "ST_FaceStartDate":"Face Start Date",
+    "ST_Organisation":"Organisation",
+    "ST_User":"User",
+    "ST_Delete":"Delete"
+
+   
+  },
+"pt-PT":{
+   
+}
+}
